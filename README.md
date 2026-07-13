@@ -1,36 +1,172 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 TalentUp
 
-## Getting Started
+> **Empowering Careers**  
+A modern AI-powered career platform that helps students discover jobs, internships, AI mock interviews, study material, and top hiring companies—all in one place.
 
-First, run the development server:
+---
+
+## 🌐 Live Demo
+
+Coming Soon...
+
+---
+
+## 📸 Preview
+
+> Add screenshots here after deployment.
+
+| Home Page | Login Page |
+|-----------|------------|
+| Screenshot | Screenshot |
+
+---
+
+## ✨ Features
+
+### 👨‍🎓 Student Portal
+- 🔍 Search Jobs
+- 💼 Find Internships
+- 🤖 AI Mock Interview
+- 📚 Study Material
+- 📝 ATS Resume Checker
+- 🏢 Top Hiring Companies
+- ❤️ Save Jobs
+- 📄 Resume Upload
+
+### 🏢 Recruiter Portal
+- Post Jobs
+- Manage Applicants
+- View Applications
+- Company Dashboard
+- Schedule Interviews
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- Next.js 16
+- React 19
+- TypeScript
+- Tailwind CSS v4
+
+### Backend (Upcoming)
+- Node.js
+- Express.js
+
+### Database (Upcoming)
+- MongoDB
+
+### Authentication (Upcoming)
+- Firebase Authentication
+- Google Login
+
+### Deployment
+- Vercel
+
+---
+
+## 📂 Project Structure
+
+```text
+talentup/
+│
+├── app/
+├── components/
+├── data/
+├── public/
+├── styles/
+├── package.json
+└── README.md
+```
+
+---
+
+## 🎯 Upcoming Features
+
+- ✅ Google Authentication
+- ✅ AI Resume Analyzer
+- ✅ AI Career Assistant
+- ✅ AI Mock Interview
+- ✅ Job Recommendation System
+- ✅ Resume Builder
+- ✅ Company Dashboard
+- ✅ Student Dashboard
+- ✅ Admin Panel
+- ✅ Email Notifications
+
+---
+
+## 🚀 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/your-username/TalentUp.git
+```
+
+Go to project folder
+
+```bash
+cd TalentUp
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🤝 Contributing
 
-To learn more about Next.js, take a look at the following resources:
+Contributions are welcome.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push your branch
+5. Open a Pull Request
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📈 Project Status
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🚧 Currently Under Development
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+New features are being added continuously.
+
+---
+
+## 👨‍💻 Developer
+
+**Akash Anand**
+
+LinkedIn:
+https://www.linkedin.com/in/akash-anand-838a5b37a
+
+GitHub:
+https://github.com/YOUR_GITHUB_USERNAME
+
+---
+
+## ⭐ Support
+
+If you like this project, don't forget to give it a ⭐ on GitHub.
+
+---
+
+Made with ❤️ using Next.js & TypeScript
