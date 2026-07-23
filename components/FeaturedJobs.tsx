@@ -2,7 +2,7 @@ import { jobs } from "@/data/jobs";
 
 export default function FeaturedJobs() {
   return (
-    <section className="bg-gradient-to-r from-white to-blue-50 py-28">
+    <section className="bg-linear-to-r from-white to-blue-50 py-28">
       <div className="max-w-7xl mx-auto px-8">
 
         <div className="text-center">
