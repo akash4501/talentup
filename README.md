@@ -159,7 +159,7 @@ LinkedIn:
 https://www.linkedin.com/in/akash-anand-838a5b37a
 
 GitHub:
-https://github.com/YOUR_GITHUB_USERNAME
+https://github.com/akash4501
 
 ---
 
